@@ -1,6 +1,3 @@
-# python-projects
-for fun python projects
-
 ## Snake Game Documentation
 
 The Snake Game is a simple implementation of the classic snake game using the Tkinter library in Python. The objective of the game is to control a snake on the screen, eat food to grow in length, and avoid colliding with itself or the boundaries of the game window.
